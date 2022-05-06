@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
+    
     <form method ="GET" action= "sumar.php" >
         <p>A:<input type="text" name= "a"></p>
         <p>B:<input type="text" name= "b"></p>
@@ -24,6 +25,7 @@
         }
     
     //codigo php
+    //codigo de html y php
     ?>
 
 
